@@ -1,0 +1,4 @@
+MyGitProject
+============
+
+Initial Git project
